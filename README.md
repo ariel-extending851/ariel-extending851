@@ -32,7 +32,7 @@
 <div align="left">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ariel99gf&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ariel99gf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ariel99gf&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true">
     <img alt="Ariel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ariel99gf&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true" width="400" />
   </picture>
