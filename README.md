@@ -1,50 +1,50 @@
-### Olá! Sou o Ariel, muito prazer! 👋
+### 👋 Olá! Sou o Ariel, muito prazer
 
-- 🚀 GitHub Profile - Uma Jornada Tecnológica
+- Eu sou um desenvolvedor em transicao para DevOps apaixonado por tecnologia e soluções digitais.
 
--  Eu sou um desenvolvedor em transição para DevOps apaixonado por tecnologia e soluções digitais. 💻
+🚀 Missão
 
-🚀 Missão:
+- Acompanhar o avanço tecnológico para tornar o mundo mais digital e simples de viver.
 
-Acompanhar o avanço tecnológico para tornar o mundo mais digital e simples de viver.
-
-<!--
 🏆 Conquistas e Projetos:
 
-    [Insira suas conquistas e projetos relevantes aqui]
--->
+- Terraform,ansible,packer and vagrant: [Homelab](https://github.com/ariel99gf/homelab/tree/develop)
+- Bash script:
+    [Dotfiles](https://github.com/ariel99gf/dotfiles)
 
 📚 Aprendendo e crescendo:
 
 <!--
     [Insira seus cursos, certificações e eventos relevantes aqui]
 -->
-    Practice It: Java
-    https://www.linkedin.com/learning/certificates/879181d41d0c66b1a180c6a13f3396249c57f4b0887b65622a91f27ffb20c71d
-    Certificado Alura
-    https://cursos.alura.com.br/user/ariel99gf/fullCertificate/6ca0538679077d3d9c96201f3e568fdf
-    ADMINISTRANDO BANCO DE DADOS
-    https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDownload.ashx?uid=11122058&p=WSl%252fPVuD33ObPMY8nTO4vUw1cpK%252f40QQ
-    MODELAGEM DE DADOS
-    https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDownload.ashx?uid=11122058&p=WSl%252fPVuD33MVpmuQAd4RfdsjB6SqfImR
-    INTELIGÊNCIA ARTIFICIAL E O NOVO CONTEXTO DA CULTURA DIGITAL
-    https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDownload.ashx?uid=11122058&p=WSl%252fPVuD33MDyum0oAUTj6zoPkkBPzc3
+  [Começando em DevOps](https://cursos.alura.com.br/user/ariel99gf/degree-primeiros-passos-devops-715314/certificate)
 
-📈 Estatísticas:
+  [Certificação Certified Solutions Architect - Associate](https://cursos.alura.com.br/user/ariel99gf/degree-aws-certified-solutions-architect-associate-56395/certificate)
+
+  [ADMINISTRANDO BANCO DE DADOS](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDownload.ashx?uid=11122058&p=WSl%252fPVuD33ObPMY8nTO4vUw1cpK%252f40QQ)
+
+  [MODELAGEM DE DADOS](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDownload.ashx?uid=11122058&p=WSl%252fPVuD33MVpmuQAd4RfdsjB6SqfImR)
+
+  [INTELIGÊNCIA ARTIFICIAL E O NOVO CONTEXTO DA CULTURA DIGITAL](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDownload.ashx?uid=11122058&p=WSl%252fPVuD33MDyum0oAUTj6zoPkkBPzc3)
+
+  [Practice It: Java](https://www.linkedin.com/learning/certificates/879181d41d0c66b1a180c6a13f3396249c57f4b0887b65622a91f27ffb20c71d)
+
+  [Outros cursos Alura](https://cursos.alura.com.br/user/ariel99gf/fullCertificate/6ca0538679077d3d9c96201f3e568fdf)
+
+📈 Statistics:
 
 <!--
     [Insira suas estatísticas de repositórios, commits, estrelas, etc.]
 -->
-![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariel99gf&show_icons=true&theme=radical)
+![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariel99gf&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/65ddc1fbaec67f2e2aa8dfee?variant=dark&roadmaps=devops%2Cdocker%2Cterraform%2Caws)](https://roadmap.sh)
 
-🌟 Destaques:
+🌟 destaques:
 
 <!--
     [Insira seus projetos favoritos, badges e outros destaques aqui]
 -->
-
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -63,13 +63,27 @@ Acompanhar o avanço tecnológico para tornar o mundo mais digital e simples de 
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-00A86B?logo=ci-cd&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-🤝 Conecte-se comigo:
-
-    LinkedIn: https://www.linkedin.com/in/ariel99gf/
-    HackerRank: https://www.hackerrank.com/profile/ariel99gf
-    LeetCode: https://leetcode.com/u/ariel99gf/
-    Try Hack Me: https://tryhackme.com/r/p/ariel99gf
-    Hack The Box: https://app.hackthebox.com/profile/2179895
+<div style="display: inline_block">
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="40" alt="kubernetes" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="40" alt="ansible" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" height="40" alt="ansible" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="40" alt="githubactions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" height="40" alt="quarkus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" height="40" alt="fedora" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="40" alt="archlinux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="40" alt="neovim" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-original.svg" height="40" alt="tmux" />
+</div>
 
 <!--
 **ariel99gf/ariel99gf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -85,7 +99,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Adding this sites:
-https://www.hackerrank.com/dashboard
+## Adding this sites
+
+<https://www.hackerrank.com/dashboard>
 
 -->
