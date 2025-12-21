@@ -2,7 +2,7 @@
 
 - 🚀 GitHub Profile - Uma Jornada Tecnológica
 
-- 👋 Eu sou um desenvolvedor em transição para DevOps apaixonado por tecnologia e soluções digitais. 💻
+-  Eu sou um desenvolvedor em transição para DevOps apaixonado por tecnologia e soluções digitais. 💻
 
 🚀 Missão:
 
