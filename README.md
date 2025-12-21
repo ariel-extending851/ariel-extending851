@@ -37,7 +37,7 @@ Acompanhar o avanço tecnológico para tornar o mundo mais digital e simples de 
 -->
 ![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariel99gf&show_icons=true&theme=radical)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65ddc1fbaec67f2e2aa8dfee?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/65ddc1fbaec67f2e2aa8dfee?variant=dark&roadmaps=devops%2Cdocker%2Cterraform%2Caws)](https://roadmap.sh)
 
 🌟 Destaques:
 
