@@ -63,9 +63,9 @@ Leveraging technology to create efficient digital solutions.
   <tr>
     <td width="50%" align="center" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ariel99gf&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=compact">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ariel99gf&show_icons=true&theme=graywhite&count_private=true&hide_border=false&layout=compact">
-        <img src="https://github-readme-stats.vercel.app/api?username=ariel99gf&show_icons=true&theme=graywhite&count_private=true&hide_border=false&layout=compact" width="100%" alt="Ariel's GitHub Stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ariel99gf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=false&layout=compact">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ariel99gf&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=false&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api?username=ariel99gf&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=false&layout=compact" width="100%" alt="Ariel's GitHub Stats" />
       </picture>
     </td>
     <td width="50%" align="center" valign="top">
