@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm Ariel, nice to meet you
 
-- I am a developer transitioning to DevOps, passionate about technology and digital solutions.
+- I am a Sysadmin and former Java Developer transitioning to DevOps, passionate about technology and digital solutions.
 
 🚀 Mission
 
