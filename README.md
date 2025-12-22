@@ -69,7 +69,7 @@ Leveraging technology to create efficient digital solutions.
       </picture>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://roadmap.sh">
+      <a href="https://roadmap.sh/u/ariel99gf">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://roadmap.sh/card/wide/65ddc1fbaec67f2e2aa8dfee?variant=dark&roadmaps=devops%2Cdocker%2Cterraform%2Caws">
           <source media="(prefers-color-scheme: light)" srcset="https://roadmap.sh/card/wide/65ddc1fbaec67f2e2aa8dfee?variant=light&roadmaps=devops%2Cdocker%2Cterraform%2Caws">
